@@ -1,0 +1,11 @@
+.fr-view {
+    word-wrap: break-word;
+}
+body, .modal-header, .modal-content, .modal-body, .modal-footer {
+    background: rgb(244, 244, 244);
+    color: rgb(41, 41, 41);
+    font-family: 'Cormorant Infant';
+    font-size: 16px;
+    text-align: center;
+    align-items: center;
+}
